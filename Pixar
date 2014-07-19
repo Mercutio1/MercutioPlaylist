@@ -15,14 +15,16 @@
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/d/da/Pixar_Short_Films_Collection,_Volume_1.png</thumbnail>
 <link>marker</link>
 
-#Spacer#
-<info>
-
-</info>
 
 <name>Pixar Short Films Collection 2</name>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/3/3b/Pixar_Short_Films_Collection_-_Volume_2_cover.jpg</thumbnail>
 <link>marker</link>
+ 
+#Spacer#
+<info>
+<message>[COLOR white][/COLOR]</message>
+
+</info> 
  
 </directory>
  
@@ -38,6 +40,6 @@
 <item>
 <title>WALL-E</title>
 <link>http://movreel.com/dkcmfgymm1eb</link>
-<thumbnail>http://ia.media-imdb.com/images/M/MV5BMTczOTA3MzY2N15BMl5BanBnXkFtZTcwOTYwNjE2MQ@@._V1_SY317_CR0,0,214,317_.jpg</thumbnail>
+<thumbnail>http://fanart.tv/fanart/movies/10681/movieposter/walle-5221dfc28b8b3.jpg</thumbnail>
 </item>
  

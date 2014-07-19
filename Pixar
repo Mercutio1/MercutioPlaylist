@@ -1,0 +1,43 @@
+<poster>Disney Pixar Movies</poster>
+<thumbnail></thumbnail>
+<fanart>http://img2.wikia.nocookie.net/__cb20110820004708/pixar/images/c/cf/USPS_Pixar_stamps.jpg</fanart>
+ 
+#Spacer#
+<info>
+<message>[B][/B]</message>
+</info>
+ 
+#Directories
+
+<directory>
+
+<name>Pixar Short Films Collection 1</name>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/d/da/Pixar_Short_Films_Collection,_Volume_1.png</thumbnail>
+<link>marker</link>
+
+#Spacer#
+<info>
+<message>[B][/B]</message>
+</info>
+
+<name>Pixar Short Films Collection 2</name>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/3/3b/Pixar_Short_Films_Collection_-_Volume_2_cover.jpg</thumbnail>
+<link>marker</link>
+ 
+ </directory>
+ 
+ 
+#Disney Pixar Movies#
+<item>
+<title>FROZEN</title>
+<link>http://gorillavid.in/ykxnavc0bvk3</link>
+<thumbnail>http://img2.timeinc.net/ew/i/2013/HMP/Gallery/Frozen.jpg</thumbnail>
+</item>
+ 
+
+<item>
+<title>WALL-E</title>
+<link>http://movreel.com/dkcmfgymm1eb</link>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BMTczOTA3MzY2N15BMl5BanBnXkFtZTcwOTYwNjE2MQ@@._V1_SY317_CR0,0,214,317_.jpg</thumbnail>
+</item>
+ 

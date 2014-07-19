@@ -1,4 +1,4 @@
-<poster>[B][COLOR steelblue]Merc's[/COLOR][COLOR gray]Playlist[/COLOR]</poster>
+<poster>[B][COLOR steelblue]Merc's[/B][/COLOR][COLOR gray]Playlist[/COLOR]</poster>
 <fanart>http://four-nineteen.com/veronica/XDA%20Developers/XBMC%204%20Android/Backgrounds/pandora-panel.png</fanart>
 
 #Announcement#
@@ -12,5 +12,7 @@
 <name>Marvel Movies</name>
 <thumbnails>http://cdn.hitfix.com/photos/5599485/MarvelrampsupproductionLSMarvelComics_gallery_primary.jpg</thumbnails>
 <link>https://raw.githubusercontent.com/Mercutio1/MercutioPlaylist/master/Marvel</link>
+
+<name>Pixar Movies</name>
 
 </Directories>

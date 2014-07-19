@@ -15,7 +15,8 @@
 <Directories>
 
 <name>Marvel Movies</name>
-<thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/0/04/MarvelLogo.svg/411px-MarvelLogo.svg.png</thumbnail>
+<fanart>http://wallb.com/assets/2013/12/Marvel-Comics-Peter-Parker-Spider-Man-black-background-comic-comics-fan-art-spiders-superheroes.jpg</fanart>
+<thumbnail>http://i287.photobucket.com/albums/ll123/deka-sooperboy-999/Marvel-Heroes-Poster-C13110040.jpg</thumbnail>
 <link>https://raw.githubusercontent.com/Mercutio1/MercutioPlaylist/master/Marvel</link>
 
 <name>Disney Pixar Movies</name>

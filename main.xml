@@ -3,7 +3,7 @@
 
 #Announcement#
 <info>
-<message>[B][COLOR steelblue]Merc's[/COLOR][COLOR gray]Playlist[/COLOR][/B]</message>
+<message>[COLOR steelblue][B]Merc's[/B][/COLOR] [COLOR gray]Playlist[/COLOR]</message>
 <message>Hey guys, new playlist and I'll be building this as the weeks go on as much as my time allows</message>
 </info>
 
@@ -15,7 +15,7 @@
 <Directories>
 
 <name>Marvel Movies</name>
-<thumbnail>http://cdn.hitfix.com/photos/http://wpc.556e.edgecastcdn.net/80556E/img.news/NEJ3asFp5C66LS_1_1.jpg</thumbnail>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/0/04/MarvelLogo.svg/411px-MarvelLogo.svg.png</thumbnail>
 <link>https://raw.githubusercontent.com/Mercutio1/MercutioPlaylist/master/Marvel</link>
 
 <name>Disney Pixar Movies</name>

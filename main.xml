@@ -27,7 +27,13 @@
 <link>https://raw.githubusercontent.com/Mercutio1/MercutioPlaylist/master/Pixar</link>
 
 <name>Best Of Disney</name>
-<thumbnails></thumbnails>
-<link></link>
+<thumbnails>http://www.parenthoodtoday.tv/wp-content/uploads/2013/03/WM_10509_Top_10_Animated_Disney_Films.jpg</thumbnails>
+<link>Dummy</link>
+
+<name>[B][COLOR steelblue]Requests/COLOR][/B]</name>
+<thumbnail>http://thetruthiseverywhere.org/wp-content/uploads/2013/05/requests1.jpg</thumbnail>
+<link>https://raw.githubusercontent.com/Mercutio1/MercutioPlaylist/master/Requests</link>
+
+
 
 </Directories>

@@ -18,7 +18,7 @@
 <item>
 <titleTest Channel</title>
 <link>rtmp://89.248.171.15:443/live/channel6%3Fs%3D6hfu0&controlBarAutoHideTimeout=1&streamType=live&autoPlay=true&bufferTime=10</link>
-<thumbnail></thumbnail>
+<thumbnail>dummy</thumbnail>
 </item>
 
 

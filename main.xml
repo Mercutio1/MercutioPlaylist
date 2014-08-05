@@ -15,6 +15,12 @@
 <Directories>
 
 <static>
+<name>Lego Section</name>
+<thumbnail>http://img2.wikia.nocookie.net/__cb20100624154147/indianajones/images/3/3e/LEGO_logo.png</thumbnail>
+<link>https://raw.githubusercontent.com/Mercutio1/MercutioPlaylist/master/Lego%20Section</link>
+</static>
+
+<static>
 <name>Marvel Movies</name>
 <file>http://wallb.com/assets/2013/12/Marvel-Comics-Peter-Parker-Spider-Man-black-background-comic-comics-fan-art-spiders-superheroes.jpg</file>
 <thumbnail>http://i287.photobucket.com/albums/ll123/deka-sooperboy-999/Marvel-Heroes-Poster-C13110040.jpg</thumbnail>
@@ -35,5 +41,6 @@
 <thumbnail>http://thetruthiseverywhere.org/wp-content/uploads/2013/05/requests1.jpg</thumbnail>
 <link>https://raw.githubusercontent.com/Mercutio1/MercutioPlaylist/master/Requests</link>
 </static>
+
 
 </Directories>

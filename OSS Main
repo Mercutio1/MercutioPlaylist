@@ -15,7 +15,7 @@
 <directories>
 	
 	<name>Latest Releases</name>
-	<thumbnail>http://i1240.photobucket.com/albums/gg498/darren_nolan1/MovieBrowser_zps263cb152.png</thumbnail>
+	<thumbnail></thumbnail>
 	<link>https://raw.githubusercontent.com/hondohc/PImov/master/Disclaimer/diclaimer_playlist.xml</link>
 	
 	<name>HD Movies</name>
@@ -23,7 +23,7 @@
 	<link>http://mikey1234-repo.googlecode.com/svn/playlist/cartoonhd/picasa_topmovie.xml</link>
 	
 	<name>Kids Korner</name>
-	<thumbnail>http://mikey1234-repo.googlecode.com/svn/playlist/cartoonhd/picasa_topcartoon.xml</thumbnail>
-    <link>https://raw.githubusercontent.com/hondohc/PImov/master/HD%20Playlist/Movie_playlist.xml</link>
+	<thumbnail></thumbnail>
+        <link>http://mikey1234-repo.googlecode.com/svn/playlist/cartoonhd/picasa_topcartoon.xml</link>
     
 </directories>

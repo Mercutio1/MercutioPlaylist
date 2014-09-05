@@ -1,0 +1,38 @@
+#START#
+#
+#
+
+#PLAYLIST TITLE IN ISTREAM AND BACKGROUND ART
+
+<poster>[COLOR steelblue]Pi[/COLOR] Movies</poster>
+<thumbnail>https://raw.githubusercontent.com/hondohc/PImov/master/Pi%20Movies.jpg</thumbnail>
+<fanart>http://i1240.photobucket.com/albums/gg498/darren_nolan1/PiMovies_zps9ddfce28.jpg</fanart>
+
+
+
+
+#INFORMATIONAL MESSAGES TO VIEWERS - ONLY USE IF YOU WANT TO#
+
+<info>
+	
+	<message>Requests & Dead Links</message>
+	<message>Twitter: @pimovies ENJOY!!!</message>
+    <message></message>  #SEPERATOR - DELETE IF YOU WISH
+	
+</info>
+
+#DIRECTORIES#
+
+<directories>
+	
+	<name>[B][COLOR gold]***DISCLAIMER: CLICK HERE FIRST***[/COLOR][/B]</name>
+	<thumbnail>http://i1240.photobucket.com/albums/gg498/darren_nolan1/MovieBrowser_zps263cb152.png</thumbnail>
+	<link>https://raw.githubusercontent.com/hondohc/PImov/master/Disclaimer/diclaimer_playlist.xml</link>
+	
+	<name>[B][COLOR steelblue]NEW[/COLOR] [COLOR white]Releases[/COLOR][/B] [COLOR lime]   UPDATED!! 05.09.14[/COLOR]</name>
+	<thumbnail>http://i1240.photobucket.com/albums/gg498/darren_nolan1/NewReleases_zps05af75dc.png</thumbnail>
+	<link>https://raw.githubusercontent.com/hondohc/PImov/master/New%20Playlist/Newrelease_playlist.xml</link>
+	
+	<name>[B][COLOR steelblue]HD[/COLOR] [COLOR white]Movies[/COLOR][/B] [COLOR lime]   UPDATED!! 04.09.14[/COLOR]</name>
+	<thumbnail>http://i1240.photobucket.com/albums/gg498/darren_nolan1/Bluray_zps9f91f9d8.png</thumbnail>
+    <link>https://raw.githubusercontent.com/hondohc/PImov/master/HD%20Playlist/Movie_playlist.xml</link>

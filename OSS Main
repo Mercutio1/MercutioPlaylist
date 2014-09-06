@@ -20,10 +20,10 @@
 	
 	<title>HD Movies</title>
 	<dir>http://mikey1234-repo.googlecode.com/svn/playlist/cartoonhd/picasa_topmovie.xml</dir>
-	<thumbnail></thumbnail>
+	<thumbnail>http://upload.wikimedia.org/wikipedia/en/b/b4/At-the-movies.jpg</thumbnail>
 	
 	<title>Kids Korner</title>
         <dir>http://mikey1234-repo.googlecode.com/svn/playlist/cartoonhd/picasa_topcartoon.xml</dir>
-        <thumbnail></thumbnail>
+        <thumbnail>http://img3.wikia.nocookie.net/__cb20130224192934/disney/images/3/32/Walt-Disney-Screencaps-The-Walt-Disney-Logo-walt-disney-characters-31865565-2560-1440.jpg</thumbnail>
     
 </directories>

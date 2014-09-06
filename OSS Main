@@ -14,16 +14,16 @@
 
 <directories>
 	
-	<name>Latest Releases</name>
-	<thumbnail>https://raw.githubusercontent.com/Mercutio1/MercutioPlaylist/ecf0e5cbdff1ecb066881fbddedea18ac64dce88/Latest%20OSS%20Movies</thumbnail>
+	<title>Latest Releases</title>
 	<dir>https://raw.githubusercontent.com/Mercutio1/MercutioPlaylist/master/Latest%20OSS%20Movies</dir>
+	<thumbnail>https://raw.githubusercontent.com/Mercutio1/MercutioPlaylist/ecf0e5cbdff1ecb066881fbddedea18ac64dce88/Latest%20OSS%20Movies</thumbnail>
 	
-	<name>HD Movies</name>
-	<thumbnail></thumbnail>
+	<title>HD Movies</title>
 	<dir>http://mikey1234-repo.googlecode.com/svn/playlist/cartoonhd/picasa_topmovie.xml</dir>
-	
-	<name>Kids Korner</name>
 	<thumbnail></thumbnail>
+	
+	<title>Kids Korner</title>
         <dir>http://mikey1234-repo.googlecode.com/svn/playlist/cartoonhd/picasa_topcartoon.xml</dir>
+        <thumbnail></thumbnail>
     
 </directories>

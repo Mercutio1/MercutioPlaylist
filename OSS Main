@@ -16,7 +16,7 @@
 	
 	<title>Latest Releases</title>
 	<dir>https://raw.githubusercontent.com/Mercutio1/MercutioPlaylist/master/Latest%20OSS%20Movies</dir>
-	<thumbnail>https://raw.githubusercontent.com/Mercutio1/MercutioPlaylist/ecf0e5cbdff1ecb066881fbddedea18ac64dce88/Latest%20OSS%20Movies</thumbnail>
+	<thumbnail>http://static.dimespring.com/field/image/Movie-goers_43_0.jpg</thumbnail>
 	
 	<title>HD Movies</title>
 	<dir>http://mikey1234-repo.googlecode.com/svn/playlist/cartoonhd/picasa_topmovie.xml</dir>

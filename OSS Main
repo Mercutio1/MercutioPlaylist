@@ -14,11 +14,9 @@
 
 <directories>
 
-<!-- Being corrected, url reslover to be added
 	<title>Latest Releases</title>
 	<dir>https://raw.githubusercontent.com/Mercutio1/MercutioPlaylist/master/Latest%20OSS%20Movies</dir>
 	<thumbnail>http://static.dimespring.com/field/image/Movie-goers_43_0.jpg</thumbnail>
--->
 	
 	<title>HD Movies</title>
 	<dir>http://mikey1234-repo.googlecode.com/svn/playlist/cartoonhd/picasa_topmovie.xml</dir>

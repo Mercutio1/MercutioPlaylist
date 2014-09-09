@@ -1,0 +1,71 @@
+OSS On-Demand TV Boxsets
+
+#PLAYLIST TITLE IN ISTREAM AND BACKGROUND ART
+
+<poster>OSS On-Demand TV Boxsets</poster>
+<fanart>https://www.dropbox.com/s/ijv18s6oob47b6d/MercsOnDemand.png</fanart>
+
+
+<info>
+	<message>Will update with new epiosdes as they are released</message>
+	<message>Requests & Dead Links</message>
+	<message>Twitter: @OffsideSupport</message>
+
+	
+</info>
+
+
+#DIRECTORIES#
+
+<directories>
+
+  <title>The Strain </title>
+  <dir></dir>
+	<thumbnail>http://image.tmdb.org/t/p/w396/sKMqyQgouK5wmAYpmasMNX8cnLm.jpg</thumbnail>
+	
+
+	<title>The Last Ship </title>
+	<dir></dir>
+	<thumbnail>http://image.tmdb.org/t/p/w396/lBo5xdISQBjTeeYElQjv5alsaG6.jpg</thumbnail>
+	
+	
+	<title>The Leftovers </title>
+	<dir></dir>
+	<thumbnail>http://image.tmdb.org/t/p/w396/xRSb3uOPxTjujx8azOGHl2H7Q3Z.jpg</thumbnail>
+	
+
+  <title>Tyrant </title>
+  <dir></dir>
+	<thumbnail>http://image.tmdb.org/t/p/w396/kbEBxv8g4BMUQZ0ilObfSUv24Kl.jpg</thumbnail>
+	
+	
+	<title>The 100 </title>
+	<dir></dir>
+	<thumbnail>http://image.tmdb.org/t/p/w396/1Iz2CNeIXaTCbPR8oq0y6RZ5S8Q.jpg</thumbnail>
+	
+
+	<title>Under the Dome </title>
+	<dir></dir>
+	<thumbnail>http://image.tmdb.org/t/p/w396/pjANwpAbQIP0rabrRjTYUxB3yXJ.jpg</thumbnail>
+	
+	
+	<title>Orange Is The New Black</title>
+	<dir></dir>
+	<thumbnail>http://image.tmdb.org/t/p/w396/5AuJ6FKL33fGCSiXa633xaHLV25.jpg</thumbnail>
+	
+	
+	
+	
+	
+	
+
+	
+	<title></title>
+	<dir></dir>
+	<thumbnail></thumbnail>
+	
+
+
+
+</directories>
+

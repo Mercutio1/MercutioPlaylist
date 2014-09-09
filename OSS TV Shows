@@ -1,15 +1,16 @@
 OSS On-Demand TV Boxsets
 
 <poster>OSS On-Demand TV Boxsets</poster>
+<thumbnail>http://offsidestreams.com/site/wp-content/uploads/2014/09/MercsOnDemand.png</thumbnail>
 <fanart>http://offsidestreams.com/site/wp-content/uploads/2014/09/MercsOnDemand.png</fanart>
 
+###############################################################################################################
 
 <info>
 	<message>Will update with new epiosdes as they are released</message>
 	<message>Requests & Dead Links</message>
 	<message>Twitter: @OffsideSupport</message>
 
-	
 </info>
 
 
@@ -17,11 +18,14 @@ OSS On-Demand TV Boxsets
 
 <directories>
 
+	<title>Outlander</title>
+	<dir>https://raw.githubusercontent.com/Mercutio1/MercutioPlaylist/master/Outlander</dir>
+	<thumbnail>http://image.tmdb.org/t/p/w396/6EdnG97lo3SOu3WmSQ2SmiHG8jo.jpg</thumbnail>
+
         <title>The Strain </title>
         <dir>dummy</dir>
 	<thumbnail>http://image.tmdb.org/t/p/w396/sKMqyQgouK5wmAYpmasMNX8cnLm.jpg</thumbnail>
 	
-
 	<title>The Last Ship </title>
 	<dir>dummy</dir>
 	<thumbnail>http://image.tmdb.org/t/p/w396/lBo5xdISQBjTeeYElQjv5alsaG6.jpg</thumbnail>
@@ -46,21 +50,6 @@ OSS On-Demand TV Boxsets
 	<dir>dummy</dir>
 	<thumbnail>http://image.tmdb.org/t/p/w396/5AuJ6FKL33fGCSiXa633xaHLV25.jpg</thumbnail>
 	
-	<title>Outlander</title>
-	<dir>https://raw.githubusercontent.com/Mercutio1/MercutioPlaylist/master/Outlander</dir>
-	<thumbnail>http://image.tmdb.org/t/p/w396/6EdnG97lo3SOu3WmSQ2SmiHG8jo.jpg</thumbnail>
 	
-	
-	
-	
-
-	
-	<title></title>
-	<dir></dir>
-	<thumbnail></thumbnail>
-	
-
-
-
 </directories>
 

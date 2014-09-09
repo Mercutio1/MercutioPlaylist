@@ -1,6 +1,6 @@
 <poster>[COLOR steelblue]Pi[/COLOR] Movies</poster>
 <thumbnail>https://www.dropbox.com/s/ijv18s6oob47b6d/MercsOnDemand.png</thumbnail>
-<fanart>https://www.dropbox.com/s/ijv18s6oob47b6d/MercsOnDemand.png</fanart>
+<fanart></fanart>
 
 <info>
 	<message>CURRENTLY WORKING ON LAUNCHING THIS NEW SECTION</message>
@@ -29,7 +29,7 @@
         
         <title>TV Shows (Coming Soon)</title>
 	<dir>https://raw.githubusercontent.com/Mercutio1/MercutioPlaylist/master/OSS%20TV%20Shows</dir>
-	<thumbnail>https://www.dropbox.com/s/4rw45vblalbf52u/OSS%20TV%20Show.jpg</thumbnail>
+	<thumbnail>http://wiki.xbmc.org/images/thumb/7/79/Library.videos.tvshowwide.WSCR.jpg/480px-Library.videos.tvshowwide.WSCR.jpg</thumbnail>
         
     
 </directories>

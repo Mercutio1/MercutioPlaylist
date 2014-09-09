@@ -33,5 +33,8 @@ OSS On-Demand
 	<dir>https://raw.githubusercontent.com/Mercutio1/MercutioPlaylist/master/OSS%20TV%20Shows</dir>
 	<thumbnail>http://offsidestreams.com/site/wp-content/uploads/2014/09/OSS-TV-Show.jpg</thumbnail>
         
+        <title>Outlander</title>
+	<dir>https://raw.githubusercontent.com/Mercutio1/MercutioPlaylist/master/Outlander</dir>
+	<thumbnail>http://image.tmdb.org/t/p/w396/6EdnG97lo3SOu3WmSQ2SmiHG8jo.jpg</thumbnail>
     
 </directories>

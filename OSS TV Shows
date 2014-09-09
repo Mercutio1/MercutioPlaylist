@@ -16,12 +16,12 @@ OSS On-Demand TV Boxsets
 #DIRECTORIES#
 
 
-	<title>Bullshit</title>
+	<title>Try again</title>
 	<link>http://movreel.com/nz6hlenvai82</link>
 	<thumbnail>http://image.tmdb.org/t/p/w396/3KYFxcRKx4oi30xbInrzcyLa31U.jpg</thumbnail>
 
-	<title>Outlander (2014)</title>
-	<dir>https://raw.githubusercontent.com/Mercutio1/MercutioPlaylist/master/Outlander</dir>
+	<name>Outlander (2014)</name>
+	<link>https://raw.githubusercontent.com/Mercutio1/MercutioPlaylist/master/Outlander.xml</link>
 	<thumbnail>http://image.tmdb.org/t/p/w396/6EdnG97lo3SOu3WmSQ2SmiHG8jo.jpg</thumbnail>
 
 	<title>Outlander</title>

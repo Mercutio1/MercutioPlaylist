@@ -18,36 +18,36 @@ OSS On-Demand TV Boxsets
 
 <directories>
 
-	<name>Outlander</name>
-	<link>https://raw.githubusercontent.com/Mercutio1/MercutioPlaylist/master/Outlander</link>
+	<title>Outlander</title>
+	<dir>https://raw.githubusercontent.com/Mercutio1/MercutioPlaylist/master/Outlander</dir>
 	<thumbnail>http://image.tmdb.org/t/p/w396/6EdnG97lo3SOu3WmSQ2SmiHG8jo.jpg</thumbnail>
 
-        <name>The Strain </name>
-        <link>http://raw.githubusercontent.com/Mercutio1/MercutioPlaylist/master/Outlander</link>
+        <title>The Strain <title>
+        <dir>http://raw.githubusercontent.com/Mercutio1/MercutioPlaylist/master/Outlander</dir>
 	<thumbnail>http://image.tmdb.org/t/p/w396/sKMqyQgouK5wmAYpmasMNX8cnLm.jpg</thumbnail>
 	
-	<name>The Last Ship</name>
-	<link>http://raw.githubusercontent.com/Mercutio1/MercutioPlaylist/master/Outlander</link>
+	<title>The Last Ship</title>
+	<dir>http://raw.githubusercontent.com/Mercutio1/MercutioPlaylist/master/Outlander</dir>
 	<thumbnail>http://image.tmdb.org/t/p/w396/lBo5xdISQBjTeeYElQjv5alsaG6.jpg</thumbnail>
 	
-	<name>The Leftovers</name>
-	<link>http://raw.githubusercontent.com/Mercutio1/MercutioPlaylist/master/Outlander</link>
+	<title>The Leftovers</title>
+	<dir>http://raw.githubusercontent.com/Mercutio1/MercutioPlaylist/master/Outlander</dir>
 	<thumbnail>http://image.tmdb.org/t/p/w396/xRSb3uOPxTjujx8azOGHl2H7Q3Z.jpg</thumbnail>
 	
-  	<name>Tyrant</name>
-  	<link>http://raw.githubusercontent.com/Mercutio1/MercutioPlaylist/master/Outlander</link>
+  	<title>Tyrant</title>
+  	<dir>http://raw.githubusercontent.com/Mercutio1/MercutioPlaylist/master/Outlander</dir>
 	<thumbnail>http://image.tmdb.org/t/p/w396/kbEBxv8g4BMUQZ0ilObfSUv24Kl.jpg</thumbnail>
 	
-	<name>The 100</name>
-	<link>http://raw.githubusercontent.com/Mercutio1/MercutioPlaylist/master/Outlander</link>
+	<title>The 100</title>
+	<dir>http://raw.githubusercontent.com/Mercutio1/MercutioPlaylist/master/Outlander</dir>
 	<thumbnail>http://image.tmdb.org/t/p/w396/1Iz2CNeIXaTCbPR8oq0y6RZ5S8Q.jpg</thumbnail>
 
-	<name>Under the Dome</name>
-	<link>http://raw.githubusercontent.com/Mercutio1/MercutioPlaylist/master/Outlander</link>
+	<title>Under the Dome</title>
+	<dir>http://raw.githubusercontent.com/Mercutio1/MercutioPlaylist/master/Outlander</dir>
 	<thumbnail>http://image.tmdb.org/t/p/w396/pjANwpAbQIP0rabrRjTYUxB3yXJ.jpg</thumbnail>
 	
-	<name>Orange Is The New Black</name>
-	<link>http://raw.githubusercontent.com/Mercutio1/MercutioPlaylist/master/Outlander</link>
+	<title>Orange Is The New Black</title>
+	<dir>http://raw.githubusercontent.com/Mercutio1/MercutioPlaylist/master/Outlander</dir>
 	<thumbnail>http://image.tmdb.org/t/p/w396/5AuJ6FKL33fGCSiXa633xaHLV25.jpg</thumbnail>
 	
 	

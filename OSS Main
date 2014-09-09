@@ -32,6 +32,12 @@ OSS On-Demand
         <title>TV Shows (Coming Soon)</title>
 	<dir>https://raw.githubusercontent.com/Mercutio1/MercutioPlaylist/master/OSS%20TV%20Shows</dir>
 	<thumbnail>http://offsidestreams.com/site/wp-content/uploads/2014/09/OSS-TV-Show.jpg</thumbnail>
+	
+	<static>
+	<name>Requests</name>
+	<thumbnail>http://thetruthiseverywhere.org/wp-content/uploads/2013/05/requests1.jpg</thumbnail>
+	<link>https://raw.githubusercontent.com/Mercutio1/MercutioPlaylist/master/Requests</link>
+	</static>
         
     
 </directories>

@@ -36,5 +36,10 @@ OSS On-Demand
  	<title>User Requests</title>
 	<dir>https://raw.githubusercontent.com/Mercutio1/MercutioPlaylist/master/User%20Requestes</dir>
 	<thumbnail>http://thetruthiseverywhere.org/wp-content/uploads/2013/05/requests1.jpg</thumbnail>
- 
+	
+	<title>OSS Music</title>
+	<dir>https://raw.githubusercontent.com/Mercutio1/MercutioPlaylist/master/Oss%20Music</dir>
+	<thumbnail>http://www.jonbateman.ca/wp-content/uploads/2013/07/tw-i-love-music-headphones.jpg</thumbnail>
+	
+	
 </directories>

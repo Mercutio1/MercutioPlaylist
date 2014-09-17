@@ -17,6 +17,10 @@ OSS On-Demand TV Boxsets
 
 <directories>
 
+	<title>Sons Of Anarchy</title>
+	<dir>https://raw.githubusercontent.com/Mercutio1/MercutioPlaylist/master/Outlander.xml</dir>
+	<thumbnail>http://image.tmdb.org/t/p/w396/6EdnG97lo3SOu3WmSQ2SmiHG8jo.jpg</thumbnail>
+
 	<title>Outlander (2014)</title>
 	<dir>https://raw.githubusercontent.com/Mercutio1/MercutioPlaylist/master/Outlander.xml</dir>
 	<thumbnail>http://image.tmdb.org/t/p/w396/6EdnG97lo3SOu3WmSQ2SmiHG8jo.jpg</thumbnail>
@@ -45,17 +49,11 @@ OSS On-Demand TV Boxsets
 
 <items>
 	<title>Sons of Anarchy 7x01 Black Widower</title>
-	<link>
-	<sublink>http://movreel.com/y78ijunks20e</sublink>
-	<sublink>http://movreel.com/nn0ab11aqfcu</sublink>
-	</link>
+	<link>http://movreel.com/y78ijunks20e<link>
 	<thumbnail>http://image.tmdb.org/t/p/w396/cImTN20gr7DYZ5XWX0I2XA6BAxb.jpg</thumbnail>       
 
 	<title>Sons of Anarchy 7x02 Toil and Till</title>
-	<link>
-	<sublink>http://movreel.com/rjai0z4jzodb</sublink>
-	<sublink>http://movreel.com/vs4yr6m4lndd</sublink>
-	</link>
+	<link>http://movreel.com/rjai0z4jzodb<link>
 	<thumbnail>http://image.tmdb.org/t/p/w396/cImTN20gr7DYZ5XWX0I2XA6BAxb.jpg</thumbnail>  
 	
 </items>

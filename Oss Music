@@ -15,6 +15,12 @@ Oss Music (Full Albums)
 </info>
 
   <items>
+  <title>Air - Moon Safari</title>
+  <link>http://youtu.be/wo8aSo5Tv1E</link>
+  <thumbnail>http://www.tunequest.org/wp-content/uploads/2007/10/air-moon-safari.jpg</thumbnail>
+  </items>
+
+  <items>
   <title>Alanis Morissette - Jagged Little Pill</title>
   <link>http://youtu.be/N1WCBPiFosg</link>
   <thumbnail>http://weknowthedj.com/wp-content/uploads/2013/11/Jagged_Little_Pill.jpg</thumbnail>
@@ -126,4 +132,10 @@ Oss Music (Full Albums)
   <title>The Stone Roses - The Stone Roses</title>
   <link>http://youtu.be/dJEvF7dPMNM</link>
   <thumbnail>http://www.nme.com/images/gallery/1989TheStoneRoses600.jpg</thumbnail>
+  </items>
+  
+  <items>
+  <title>The Velvet Underground & Nico</title>
+  <link>http://youtu.be/6tsamNxGC9U</link>
+  <thumbnail>http://upload.wikimedia.org/wikipedia/en/0/0c/Velvet_Underground_and_Nico.jpg</thumbnail>
   </items>

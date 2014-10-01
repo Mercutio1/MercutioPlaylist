@@ -32,6 +32,10 @@ OSS On-Demand
         <title>TV Shows (Coming Soon)</title>
 	<dir>https://raw.githubusercontent.com/Mercutio1/MercutioPlaylist/master/OSS%20TV%20Shows</dir>
 	<thumbnail>http://offsidestreams.com/site/wp-content/uploads/2014/09/OSS-TV-Show.jpg</thumbnail>
+	
+	<title>Bond Demand (All Bonds)</title>
+	<dir>https://raw.githubusercontent.com/Mercutio1/MercutioPlaylist/master/Bond%20Playlist</dir>
+	<thumbnail>http://1.bp.blogspot.com/_Yn63XJFNzjU/Sv078SuwMlI/AAAAAAAAAAM/mmJHyWUtIEI/s320/bond007.jpg</thumbnail>
 
  	<title>User Requests</title>
 	<dir>https://raw.githubusercontent.com/Mercutio1/MercutioPlaylist/master/User%20Requestes</dir>

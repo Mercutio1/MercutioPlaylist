@@ -1,1 +1,51 @@
-#HalloweenList
+Mercs Movies - Halloween Movies
+
+<poster>Mercs Movies</poster>
+<fanart>http://offsidestreams.com/site/wp-content/uploads/2014/09/MercsOnDemand.png</fanart>
+
+###############################################################################################################
+
+#MESSAGES TO SUBSCRIBERS - ONLY USE IF YOU WANT TO#
+
+<info>
+
+<message>Halloween Movies</message>
+
+</info>
+
+<items>
+
+<title>Let The Right One In (2008)</title>
+<link>http://stagevu.com/video/wooivaxztgje</link>
+<thumbnail>http://image.tmdb.org/t/p/w396/rohNodH52yEEp3pmQHt1HIeW4RK.jpg</thumbnail>
+
+<title>Halloween (2007)</title>
+<link>http://stagevu.com/video/hzryqmlliyid</link>
+<thumbnail>http://image.tmdb.org/t/p/w396/aKfb3dvI24rylrNeMTf07yj7mJy.jpg</thumbnail>
+
+<title>Silent Hill (2006)</title>
+<link>http://stagevu.com/video/pnxrbvgjqnpm</link>
+<thumbnail>http://image.tmdb.org/t/p/w396/862ko2hKHE7RZt2GOWYIJjQQAnU.jpg</thumbnail>
+
+<title>The Cabin In The Woods (2012)</title>
+<link>http://stagevu.com/video/muuzvrhuhpos</link>
+<thumbnail>http://image.tmdb.org/t/p/w396/t8cW3FSCDYCaWRiNHSvI6SDuWeA.jpg</thumbnail>
+
+
+<title>The Conjuring (2014)</title>
+<link>http://stagevu.com/video/ppzhzcuumhys</link>
+<thumbnail>http://image.tmdb.org/t/p/w396/xYGkdhOEVoFrLNUotuTXemtQAWd.jpg</thumbnail>
+
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+
+</items>

@@ -19,8 +19,8 @@ OSS On-Demand TV Boxsets
 <directories>
 
 	<title>Sons Of Anarchy</title>
-	<dir>https://raw.githubusercontent.com/Mercutio1/MercutioPlaylist/master/Outlander.xml</dir>
-	<thumbnail>http://image.tmdb.org/t/p/w396/6EdnG97lo3SOu3WmSQ2SmiHG8jo.jpg</thumbnail>
+	<dir>https://raw.githubusercontent.com/Mercutio1/MercutioPlaylist/master/SonsOfAnarchyTopLevel</dir>
+	<thumbnail>http://image.tmdb.org/t/p/w396/jFsuB5kXUyZQeVmIKXfcXjFrvWk.jpg</thumbnail>
 
 	<title>Outlander (2014)</title>
 	<dir>https://raw.githubusercontent.com/Mercutio1/MercutioPlaylist/master/Outlander.xml</dir>

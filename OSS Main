@@ -9,7 +9,6 @@ OSS On-Demand
 <info>
 	<message>Requests & Dead Links</message>
 	<message>Twitter: @OffsideSupport</message>
-	<message>Donations always appreicated never requested: Paypal address: ossstvbondemand@gmail.com</message>
 
 	
 </info>
@@ -30,7 +29,7 @@ OSS On-Demand
         <dir>http://mikey1234-repo.googlecode.com/svn/playlist/cartoonhd/picasa_topcartoon.xml</dir>
         <thumbnail>http://img3.wikia.nocookie.net/__cb20130224192934/disney/images/3/32/Walt-Disney-Screencaps-The-Walt-Disney-Logo-walt-disney-characters-31865565-2560-1440.jpg</thumbnail>
         
-        <title>TV Shows (Coming Soon)</title>
+        <title>TV Shows</title>
 	<dir>https://raw.githubusercontent.com/Mercutio1/MercutioPlaylist/master/OSS%20TV%20Shows</dir>
 	<thumbnail>http://offsidestreams.com/site/wp-content/uploads/2014/09/OSS-TV-Show.jpg</thumbnail>
 	

@@ -29,6 +29,10 @@ OSS On-Demand TV Boxsets
 	<title>Orange Is The New Black</title>
 	<dir>https://raw.githubusercontent.com/Mercutio1/MercutioPlaylist/master/OrangeIsTheNewBlackTopLevel</dir>
 	<thumbnail>http://image.tmdb.org/t/p/w396/5AuJ6FKL33fGCSiXa633xaHLV25.jpg</thumbnail>
+	
+	<title>The Sopranos</title>
+	<dir>dummy</dir>
+	<thumbnail>http://image.tmdb.org/t/p/w396/rQoMSnm7Uv4yTDIumrVMbzL2DTt.jpg</thumbnail>
 
 	<title>The Leftovers - Coming Soon</title>
 	<dir>dummy</dir>
@@ -46,9 +50,7 @@ OSS On-Demand TV Boxsets
 	<dir>dummy</dir>
 	<thumbnail>http://image.tmdb.org/t/p/w396/pjANwpAbQIP0rabrRjTYUxB3yXJ.jpg</thumbnail>
 	
-	<title>The Sopranos - Coming Soon</title>
-	<dir>dummy</dir>
-	<thumbnail>http://image.tmdb.org/t/p/w396/rQoMSnm7Uv4yTDIumrVMbzL2DTt.jpg</thumbnail>
+
 	
 </directories>
 

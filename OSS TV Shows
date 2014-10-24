@@ -7,9 +7,10 @@ OSS On-Demand TV Boxsets
 ###############################################################################################################
 
 <info>
-	<message>*** COMING SOON ***</message>
+	<message>Section is open! Give me time to populate guys</message>
 	<message>Requests & Dead Links</message>
 	<message>Twitter: @OffsideSupport</message>
+	<message>Cheers - Merc</message>
 
 </info>
 
@@ -31,7 +32,7 @@ OSS On-Demand TV Boxsets
 	<thumbnail>http://image.tmdb.org/t/p/w396/5AuJ6FKL33fGCSiXa633xaHLV25.jpg</thumbnail>
 	
 	<title>The Sopranos</title>
-	<dir>dummy</dir>
+	<dir>https://raw.githubusercontent.com/Mercutio1/MercutioPlaylist/master/TheSopranosTopLevel</dir>
 	<thumbnail>http://image.tmdb.org/t/p/w396/rQoMSnm7Uv4yTDIumrVMbzL2DTt.jpg</thumbnail>
 
 	<title>The Leftovers - Coming Soon</title>

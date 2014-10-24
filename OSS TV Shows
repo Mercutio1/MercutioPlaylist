@@ -22,29 +22,33 @@ OSS On-Demand TV Boxsets
 	<dir>https://raw.githubusercontent.com/Mercutio1/MercutioPlaylist/master/SonsOfAnarchyTopLevel</dir>
 	<thumbnail>http://image.tmdb.org/t/p/w396/jFsuB5kXUyZQeVmIKXfcXjFrvWk.jpg</thumbnail>
 
-	<title>Outlander (2014)</title>
+	<title>Outlander</title>
 	<dir>https://raw.githubusercontent.com/Mercutio1/MercutioPlaylist/master/Outlander</dir>
 	<thumbnail>http://image.tmdb.org/t/p/w396/6EdnG97lo3SOu3WmSQ2SmiHG8jo.jpg</thumbnail>
+	
+	<title>Orange Is The New Black</title>
+	<dir>https://raw.githubusercontent.com/Mercutio1/MercutioPlaylist/master/OrangeIsTheNewBlackTopLevel</dir>
+	<thumbnail>http://image.tmdb.org/t/p/w396/5AuJ6FKL33fGCSiXa633xaHLV25.jpg</thumbnail>
 
-	<title>The Leftovers</title>
+	<title>The Leftovers - Coming Soon</title>
 	<dir>dummy</dir>
 	<thumbnail>http://image.tmdb.org/t/p/w396/xRSb3uOPxTjujx8azOGHl2H7Q3Z.jpg</thumbnail>
 	
-  	<title>Tyrant</title>
+  	<title>Tyrant - Coming Soon</title>
   	<dir>dummy</dir>
 	<thumbnail>http://image.tmdb.org/t/p/w396/kbEBxv8g4BMUQZ0ilObfSUv24Kl.jpg</thumbnail>
 	
-	<title>The 100</title>
+	<title>The 100 - Coming Soon</title>
 	<dir>dummy</dir>
 	<thumbnail>http://image.tmdb.org/t/p/w396/1Iz2CNeIXaTCbPR8oq0y6RZ5S8Q.jpg</thumbnail>
 
-	<title>Under the Dome</title>
+	<title>Under the Dome - Coming Soon</title>
 	<dir>dummy</dir>
 	<thumbnail>http://image.tmdb.org/t/p/w396/pjANwpAbQIP0rabrRjTYUxB3yXJ.jpg</thumbnail>
 	
-	<title>Orange Is The New Black</title>
+	<title>The Sopranos - Coming Soon</title>
 	<dir>dummy</dir>
-	<thumbnail>http://image.tmdb.org/t/p/w396/5AuJ6FKL33fGCSiXa633xaHLV25.jpg</thumbnail>
+	<thumbnail>http://image.tmdb.org/t/p/w396/rQoMSnm7Uv4yTDIumrVMbzL2DTt.jpg</thumbnail>
 	
 </directories>
 

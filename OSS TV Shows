@@ -19,6 +19,10 @@ OSS On-Demand TV Boxsets
 
 <directories>
 
+	<title>Game Of Thrones</title>
+	<dir>ttps://raw.githubusercontent.com/Mercutio1/MercutioPlaylist/master/GameOfThronesToplevel</dir>
+	<thumbnail>http://image.tmdb.org/t/p/w396/pVC9o9LLnhuPpas0B0p9spqAxNg.jpg</thumbnail>
+
 	<title>Sons Of Anarchy</title>
 	<dir>https://raw.githubusercontent.com/Mercutio1/MercutioPlaylist/master/SonsOfAnarchyTopLevel</dir>
 	<thumbnail>http://image.tmdb.org/t/p/w396/jFsuB5kXUyZQeVmIKXfcXjFrvWk.jpg</thumbnail>

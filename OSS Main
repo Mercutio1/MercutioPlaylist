@@ -1,14 +1,13 @@
 OSS On-Demand
 
-<poster>Welcome To OSS On Demand</poster>
+<poster>Welcome To On Demand</poster>
 <thumbnail>http://offsidestreams.com/site/wp-content/uploads/2014/09/MercsOnDemand.png</thumbnail>
 <fanart>http://offsidestreams.com/site/wp-content/uploads/2014/09/MercsOnDemand.png</fanart>
 
 ###############################################################################################################
 
 <info>
-	<message>Requests & Dead Links</message>
-	<message>Twitter: @OffsideSupport</message>
+	<message>Section updated as much as possible by staff!</message>
 
 	
 </info>
@@ -17,40 +16,17 @@ OSS On-Demand
 
 <directories>
 
-	<title>Latest HD Movies</title>
+	<title>Latest Movies</title>
 	<dir>http://pastebin.com/raw.php?i=hwFSMzw9</dir>
 	<thumbnail>http://static.dimespring.com/field/image/Movie-goers_43_0.jpg</thumbnail>
 	
-	<title>DVD Movies</title>
+	<title>Random Movies</title>
 	<dir>http://pastebin.com/raw.php?i=S0td5yXK</dir>
 	<thumbnail>http://vienna-wv.com/images/movienight.jpg</thumbnail>
 	
 	<title>Movies For Members</title>
 	<dir>https://raw.githubusercontent.com/Mercutio1/MercutioPlaylist/master/User%20Requestes</dir>
 	<thumbnail>http://filesharingtalk.com/attachment.php?attachmentid=147346&d=1409863374</thumbnail>
-	
-	<title>Kids Korner</title>
-        <dir>http://xty.me/xunitytalk/playlist/cartoonhd/picasa_topcartoon.xml</dir>
-        <thumbnail>http://img3.wikia.nocookie.net/__cb20130224192934/disney/images/3/32/Walt-Disney-Screencaps-The-Walt-Disney-Logo-walt-disney-characters-31865565-2560-1440.jpg</thumbnail>
-        
-        <title>TV Shows</title>
-	<dir>https://raw.githubusercontent.com/Mercutio1/MercutioPlaylist/master/OSS%20TV%20Shows</dir>
-	<thumbnail>http://offsidestreams.com/site/wp-content/uploads/2014/09/OSS-TV-Show.jpg</thumbnail>
-	
-	<title>Bond Demand (All Bonds)</title>
-	<dir>https://raw.githubusercontent.com/Mercutio1/MercutioPlaylist/master/Bond%20Playlist</dir>
-	<thumbnail>http://1.bp.blogspot.com/_Yn63XJFNzjU/Sv078SuwMlI/AAAAAAAAAAM/mmJHyWUtIEI/s320/bond007.jpg</thumbnail>
-	
-	<title>Superheroes Section</title>
-	<dir>https://raw.githubusercontent.com/Mercutio1/MercutioPlaylist/master/OSSMarvelvsDC</dir>
-	<thumbnail>http://cdn.screenrant.com/wp-content/uploads/DC-vs-Marvel-Movies-Casts-Casting-Rumors.jpg</thumbnai>
-	
-	<title>R3b00t Section</title>
-	<dir>https://raw.githubusercontent.com/Mercutio1/MercutioPlaylist/master/R3b00t%20Section</dir>
-	<thumbnail>https://s-media-cache-ak0.pinimg.com/236x/5a/bf/e3/5abfe3c0a7ea6c280c7a14ab768af696.jpg</thumbnail>
 
-	<title>Events (WWE, MMA etc)</title>
-	<dir>https://raw.githubusercontent.com/Mercutio1/MercutioPlaylist/master/Events</dir>
-	<thumbnail>http://e9bbcba794ec60672475-693158ff2c1c99d0e4a41d57d491843d.r93.cf2.rackcdn.com/wp-content/uploads/2012/06/UFC-Glass-Reflection-Logo-478x270.jpg</thumbnail>
 
 </directories>

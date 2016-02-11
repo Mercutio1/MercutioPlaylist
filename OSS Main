@@ -16,6 +16,10 @@ OSS On-Demand
 
 <directories>
 
+	<title>Movies/Tv Shows For Members [COLOR green]UPDATED ![/COLOR]</title>
+	<dir>http://xtyrepo.me/xunitytalk/playlist/playlist</dir>
+	<thumbnail>http://filesharingtalk.com/attachment.php?attachmentid=147346&d=1409863374</thumbnail>
+	
 	<title>Latest Movies</title>
 	<dir>http://pastebin.com/raw.php?i=hwFSMzw9</dir>
 	<thumbnail>http://static.dimespring.com/field/image/Movie-goers_43_0.jpg</thumbnail>
@@ -24,9 +28,6 @@ OSS On-Demand
 	<dir>http://pastebin.com/raw.php?i=S0td5yXK</dir>
 	<thumbnail>http://vienna-wv.com/images/movienight.jpg</thumbnail>
 	
-	<title>Movies For Members</title>
-	<dir>https://raw.githubusercontent.com/Mercutio1/MercutioPlaylist/master/User%20Requestes</dir>
-	<thumbnail>http://filesharingtalk.com/attachment.php?attachmentid=147346&d=1409863374</thumbnail>
 
 
 </directories>
